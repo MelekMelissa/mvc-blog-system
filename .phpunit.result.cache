@@ -1,0 +1,1 @@
+{"version":2,"defects":{"PostTest::testPostModelExists":8,"PostTest::testCountMethodExists":8,"UserTest::testUserModelExists":8,"UserTest::testFindByEmailMethodExists":8},"times":{"PostTest::testPostModelExists":0.038,"PostTest::testCountMethodExists":0.003,"UserTest::testUserModelExists":0.004,"UserTest::testFindByEmailMethodExists":0.002}}
