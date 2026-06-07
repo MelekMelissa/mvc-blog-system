@@ -190,19 +190,6 @@ OK (4 tests, 4 assertions)
 
 ---
 
-## Screenshots
-
-Add screenshots of:
-
-* Home page
-* Login page
-* Post details page
-* Categories page
-* Profile page
-* Admin dashboard
-
----
-
 ## Project Structure
 
 ```text
